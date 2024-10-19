@@ -16,7 +16,7 @@
 - [Kartoffelpuffer (Potato Pancakes)](Receitas/Kartoffelpuffer%20(Potato%20Pancakes))
 - [Molho Pesto](Receitas/Molho%20Pesto)
 - [Pão do Luiz Fellipe na máquina](Receitas/Pão%20do%20Luiz%20Fellipe%20na%20máquina)
-- [Philly Cheesesteak](Receitas/Philly%20Cheesesteak)
+- [Philly Cheesesteak](Receitas/Philly%20Cheesestake)
 - [Pizza Margherita](Receitas/Pizza%20Margherita)
 - [Post-Thanksgiving Breakfast: Egg in a Hole…In a Pork Loin](Receitas/Post-Thanksgiving%20Breakfast_%20Egg%20in%20a%20Hole…In%20a%20Po)
 - [Pudim de leite condensado](Receitas/Pudim%20de%20leite%20condensado)
