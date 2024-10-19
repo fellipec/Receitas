@@ -31,10 +31,10 @@ Bake in a dish with sides (to catch grease) at 425 for approx 40 minutes or unti
 Add BBQ sauce all over and bake an additional 5 minutes!
 
 
-![food-the-more-you-know-rep-ost-staff-picks-don-t-worry-there-s-sauce-recipe-end-Bacon-Wrapped-Onion-Bombs](../_resources/hp9Galk_29522481dd9949fe917691a0c7744fb0.jpeg)
+![food-the-more-you-know-rep-ost-staff-picks-don-t-worry-there-s-sauce-recipe-end-Bacon-Wrapped-Onion-Bombs](../resources/hp9Galk_29522481dd9949fe917691a0c7744fb0.jpeg)
 
-![food-recipe-the-more-you-know-rep-ost-staff-picks-Bacon-Wrapped-Onion-Bombs](../_resources/B7C0iGI_1140202f98d5473c99eaf5374ebd66a9.jpeg)
+![food-recipe-the-more-you-know-rep-ost-staff-picks-Bacon-Wrapped-Onion-Bombs](../resources/B7C0iGI_1140202f98d5473c99eaf5374ebd66a9.jpeg)
 
-![food-recipe-the-more-you-know-rep-ost-staff-picks-Bacon-Wrapped-Onion-Bombs](../_resources/Vu6IJWX_dbf8977a0d094b8ba0760367408ae645.jpeg)
+![food-recipe-the-more-you-know-rep-ost-staff-picks-Bacon-Wrapped-Onion-Bombs](../resources/Vu6IJWX_dbf8977a0d094b8ba0760367408ae645.jpeg)
 
 

@@ -9,7 +9,7 @@ altitude: 0.0000
 
 # Pudim de leite condensado
 
-[Receita de Pudim de Leite Condensado \[IIGYlkiWyus\].mp4](../_resources/Receita%20de%20Pudim%20de%20Leite%20Condensado%20[IIGYlkiWyus].mp4)
+[Receita de Pudim de Leite Condensado \[IIGYlkiWyus\].mp4](../resources/Receita%20de%20Pudim%20de%20Leite%20Condensado%20[IIGYlkiWyus].mp4)
 
 ## Ingredientes
 

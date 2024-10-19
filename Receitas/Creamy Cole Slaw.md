@@ -9,7 +9,7 @@ altitude: 0.0000
 
 # Creamy Cole Slaw
 
-![coleslaw.jpeg](../_resources/coleslaw.jpeg)
+![coleslaw.jpeg](../resources/coleslaw.jpeg)
 
 ## Ingredients
 

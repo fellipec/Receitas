@@ -9,7 +9,7 @@ altitude: 0.0000
 
 # Grilled Taleggio Sandwich With Sautéed Mushrooms 
 
-![Grilled Taleggio Sandwich With Sauted Mushrooms.jpeg](../_resources/Grilled%20Taleggio%20Sandwich%20With%20Sauted%20Mushrooms.jpeg)
+![Grilled Taleggio Sandwich With Sauted Mushrooms.jpeg](../resources/Grilled%20Taleggio%20Sandwich%20With%20Sauted%20Mushrooms.jpeg)
 
 Yield: 1 to 2 servings 
 

@@ -9,7 +9,7 @@ altitude: 0.0000
 
 # Banoffee Pie
 
-![GetImage(3).jpeg](../_resources/GetImage%283%29.jpeg)
+![GetImage(3).jpeg](../resources/GetImage%283%29.jpeg)
 
 ## Ingredients
  

@@ -9,7 +9,7 @@ altitude: 0.0000
 
 # Batata Argentina com bacon e 3 queijos
 
-![GetImage(4).jpeg](../_resources/GetImage%284%29.jpeg)
+![GetImage(4).jpeg](../resources/GetImage%284%29.jpeg)
 
 ## Ingredientes
 
