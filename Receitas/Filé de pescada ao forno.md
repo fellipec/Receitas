@@ -1,3 +1,12 @@
+---
+title: Filé de pescada ao forno
+updated: 2024-10-19 16:00:06Z
+created: 2024-10-19 15:58:16Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Filé de pescada ao forno 
 
 Tempo de Preparo: 40min

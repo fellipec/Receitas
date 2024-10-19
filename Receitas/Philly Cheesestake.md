@@ -1,3 +1,12 @@
+---
+title: Philly Cheesestake
+updated: 2024-10-19 16:38:35Z
+created: 2024-10-19 16:36:13Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Philly Cheesestake
 
 > Philly Cheesestake, também chamado de Philadelphia Cheesesteak ou, apenas Philly, é o sanduíche tradicional da cidade de Rocky Balboa. Sua origem remonta ao início do século XX, mas a receita atual, com provolone e pimentão, foi sendo aprimorada ao longo de décadas. Se você for à Filadélfia, você tem que comer um desses. Mas se você não for à Filadélfia, faça essa receita em casa e aproveite. Você não vai se arrepender.  

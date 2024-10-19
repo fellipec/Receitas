@@ -1,3 +1,12 @@
+---
+title: Strogonoff Moscow Style
+updated: 2024-10-19 16:47:25Z
+created: 2024-10-19 16:45:00Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Strogonoff Moscow Style 
 
 ## Ingredientes

@@ -1,3 +1,12 @@
+---
+title: Spaghetti alla carbonara
+updated: 2024-10-19 16:26:06Z
+created: 2024-10-19 16:24:27Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Spaghetti alla carbonara
 
 ## Ingredientes

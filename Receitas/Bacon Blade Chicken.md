@@ -1,3 +1,12 @@
+---
+title: Bacon Blade Chicken
+updated: 2024-10-19 15:55:26Z
+created: 2024-10-19 15:53:38Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Bacon Blade Chicken
 
 ## Ingredientes: 

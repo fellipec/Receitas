@@ -1,6 +1,15 @@
+---
+title: Batata Argentina com bacon e 3 queijos
+updated: 2024-10-19 16:17:34Z
+created: 2024-10-19 16:12:45Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Batata Argentina com bacon e 3 queijos
 
-![GetImage(4).jpeg](../_resources/GetImage%284%29-1.jpeg)
+![GetImage(4).jpeg](../_resources/GetImage%284%29.jpeg)
 
 ## Ingredientes
 

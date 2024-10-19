@@ -1,6 +1,15 @@
+---
+title: Pudim de leite condensado
+updated: 2024-10-19 16:22:22Z
+created: 2024-10-19 16:20:00Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Pudim de leite condensado
 
-[Receita de Pudim de Leite Condensado \[IIGYlkiWyus\].mp4](../_resources/Receita%20de%20Pudim%20de%20Leite%20Condensado%20[IIGYlkiWyus]-1.mp4)
+[Receita de Pudim de Leite Condensado \[IIGYlkiWyus\].mp4](../_resources/Receita%20de%20Pudim%20de%20Leite%20Condensado%20[IIGYlkiWyus].mp4)
 
 ## Ingredientes
 

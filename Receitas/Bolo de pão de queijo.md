@@ -1,3 +1,12 @@
+---
+title: Bolo de pão de queijo
+updated: 2024-10-19 16:35:30Z
+created: 2024-10-19 16:34:33Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Bolo de pão de queijo
 
 ## Ingredientes 

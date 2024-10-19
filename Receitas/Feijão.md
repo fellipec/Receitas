@@ -1,3 +1,12 @@
+---
+title: Feijão
+updated: 2024-10-19 15:51:41Z
+created: 2024-10-19 15:51:40Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Feijão
 
 ## Cozinhando o feijão 

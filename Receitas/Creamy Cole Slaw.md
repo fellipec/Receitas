@@ -1,6 +1,15 @@
+---
+title: Creamy Cole Slaw
+updated: 2024-10-19 16:34:21Z
+created: 2024-10-19 16:31:17Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Creamy Cole Slaw
 
-![coleslaw.jpeg](../_resources/coleslaw-1.jpeg)
+![coleslaw.jpeg](../_resources/coleslaw.jpeg)
 
 ## Ingredients
 

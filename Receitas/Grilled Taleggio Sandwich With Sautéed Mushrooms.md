@@ -1,6 +1,15 @@
+---
+title: Grilled Taleggio Sandwich With Sautéed Mushrooms
+updated: 2024-10-19 15:25:52Z
+created: 2024-10-19 15:23:36Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Grilled Taleggio Sandwich With Sautéed Mushrooms 
 
-![Grilled Taleggio Sandwich With Sauted Mushrooms.jpeg](../_resources/Grilled%20Taleggio%20Sandwich%20With%20Sauted%20Mushrooms-1.jpeg)
+![Grilled Taleggio Sandwich With Sauted Mushrooms.jpeg](../_resources/Grilled%20Taleggio%20Sandwich%20With%20Sauted%20Mushrooms.jpeg)
 
 Yield: 1 to 2 servings 
 

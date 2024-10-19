@@ -1,6 +1,15 @@
+---
+title: Banoffee Pie
+updated: 2024-10-19 16:10:22Z
+created: 2024-10-19 16:07:25Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Banoffee Pie
 
-![GetImage(3).jpeg](../_resources/GetImage%283%29-1.jpeg)
+![GetImage(3).jpeg](../_resources/GetImage%283%29.jpeg)
 
 ## Ingredients
  

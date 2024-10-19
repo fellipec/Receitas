@@ -1,3 +1,12 @@
+---
+title: Pizza Margherita
+updated: 2024-10-19 16:44:06Z
+created: 2024-10-19 16:43:24Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Pizza Margherita
 
 ## Ingredientes

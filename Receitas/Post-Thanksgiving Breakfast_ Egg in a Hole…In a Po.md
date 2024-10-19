@@ -1,7 +1,16 @@
+---
+title: 'Post-Thanksgiving Breakfast: Egg in a Hole…In a Pork Loin'
+updated: 2024-10-19 16:02:01Z
+created: 2024-10-19 16:00:27Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Post-Thanksgiving Breakfast: Egg in a Hole…In a Pork Loin 
 
 
-![GetImage.jpeg](../_resources/GetImage-1.jpeg)
+![GetImage.jpeg](../_resources/GetImage.jpeg)
 
 
 When we last encountered Smithfield Mesquite Marinated Fresh Pork Loin Filet, I was wrapping it in bacon for some extra-good pork-on-pork action. Fortunately, the good folks at Smithfield must have thought this was such a good idea that they now have a fresh pork loin product that comes with the (real) bacon already mixed in. Thank. You. 
@@ -17,10 +26,10 @@ Bacon and Eggs in a Pork Loin
 – Take the pork loin out of the oven and crack an egg into each of the three holes. 
 – Bake for 15 more minutes. 
 
-![GetImage(1).jpeg](../_resources/GetImage%281%29-1.jpeg)
+![GetImage(1).jpeg](../_resources/GetImage%281%29.jpeg)
 
 There you have it. Egg in a hole in a bacon-spiked pork loin. It’s a rich and gooey lazy-morning breakfast, and the little bits of bacon cooked on the bottom are perfect for dipping into the yolk goodness. I served it with some cranberry sauce-spread toast to keep things seasonal. If you’re making this post-turkey day, it couldn’t hurt to add a little leftover stuffing in each of your holes before adding the eggs on top. 
 
-![GetImage(2).jpeg](../_resources/GetImage%282%29-1.jpeg)
+![GetImage(2).jpeg](../_resources/GetImage%282%29.jpeg)
 
 Clipped from: http://www.endlesssimmer.com/2015/11/27/post-thanksgiving-breakfast-egg-in-a-hole-in-a-pork-loin/ 

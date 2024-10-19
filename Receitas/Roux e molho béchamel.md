@@ -1,3 +1,12 @@
+---
+title: Roux e molho béchamel
+updated: 2024-10-19 16:42:42Z
+created: 2024-10-19 16:40:39Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Roux e molho béchamel
 
 > Gordura e farinha. Essa é a base da técnica francesa que serve como espessante para caldos e molhos, entre eles o béchamel: o conhecido molho branco.

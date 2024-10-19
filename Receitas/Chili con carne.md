@@ -1,3 +1,12 @@
+---
+title: Chili con carne
+updated: 2024-10-19 16:24:07Z
+created: 2024-10-19 16:22:42Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Chili con carne
 
 ## Ingredientes

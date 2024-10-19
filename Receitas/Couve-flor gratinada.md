@@ -1,3 +1,12 @@
+---
+title: Couve-flor gratinada
+updated: 2024-10-19 16:12:36Z
+created: 2024-10-19 16:10:54Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Couve-flor gratinada
 
 ## Ingredientes

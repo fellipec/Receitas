@@ -1,3 +1,12 @@
+---
+title: Pão do Luiz Fellipe na máquina
+updated: 2024-10-19 15:53:29Z
+created: 2024-10-19 15:51:59Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 Ingredientes:  
 
 - 2 Ovos 

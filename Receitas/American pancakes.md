@@ -1,3 +1,12 @@
+---
+title: American pancakes
+updated: 2024-10-19 16:30:54Z
+created: 2024-10-19 16:29:17Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # American pancakes
 Também funciona para waffles
 

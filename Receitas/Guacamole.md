@@ -1,3 +1,12 @@
+---
+title: Guacamole
+updated: 2024-10-19 16:50:31Z
+created: 2024-10-19 16:48:17Z
+latitude: -25.53183540
+longitude: -49.20357220
+altitude: 0.0000
+---
+
 # Guacamole
 
 ## Ingredients
