@@ -16,6 +16,7 @@
 - [Guacamole](Receitas/Guacamole)
 - [Kartoffelpuffer (Potato Pancakes)](Receitas/Kartoffelpuffer%20(Potato%20Pancakes))
 - [Molho Pesto](Receitas/Molho%20Pesto)
+- [Panqueca de Clara de Ovo](Receitas/Panqueca%20de%20Clara%20de%20Ovo)
 - [Pão do Luiz Fellipe na máquina](Receitas/Pão%20do%20Luiz%20Fellipe%20na%20máquina)
 - [Philly Cheesesteak](Receitas/Philly%20Cheesestake)
 - [Pizza Margherita](Receitas/Pizza%20Margherita)
