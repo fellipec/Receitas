@@ -6,6 +6,7 @@
 - [Banoffee Pie](Receitas/Banoffee%20Pie)
 - [Batata Argentina com bacon e 3 queijos](Receitas/Batata%20Argentina%20com%20bacon%20e%203%20queijos)
 - [Bolo de pão de queijo](Receitas/Bolo%20de%20pão%20de%20queijo)
+- [Caldo Verde](Receitas/Caldo%20Verde)
 - [Chili con carne](Receitas/Chili%20con%20carne)
 - [Couve-flor gratinada](Receitas/Couve-flor%20gratinada)
 - [Creamy Cole Slaw](Receitas/Creamy%20Cole%20Slaw)
